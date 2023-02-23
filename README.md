@@ -1,2 +1,5 @@
 # Discord-Token-Generator
-Discord Token Generator Capsolver
+Discord Token Generator:
+- needed capsovler 
+- needed Proxy 
+enjoy
